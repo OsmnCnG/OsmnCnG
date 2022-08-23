@@ -7,12 +7,12 @@
 
 
 <!-- task -->
-```
-- [x] **Task 1**
+
+- [x] Task 1
     - [x] Task 1.1
     - [x] Task 1.1
-- [ ] **Task 2**   
-```
+- [ ] Task 2   
+
 
 <!-- EMOJI -->
 
