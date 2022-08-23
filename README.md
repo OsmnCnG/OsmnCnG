@@ -1,5 +1,5 @@
 <!-- HEADING -->
-    :dolphin:Hİ THERE!:dolphin:
+:dolphin: Hİ THERE! :dolphin:
 
 <!-- BOLD -->
 
