@@ -3,8 +3,8 @@
 
 <!-- BOLD -->
 
-    ** (bla bla) **
-
+    ** ITS OSMAN CAN. I'M STUDYING IN ELECTRICAL AND ELECTRONICS ENGINEERİNG. **
+    ** 1.ST OF MY GOAL İS TO LEARN SWIFT.    **
 
 <!-- task -->
 
