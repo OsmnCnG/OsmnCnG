@@ -1,13 +1,12 @@
 <!-- HEADING -->
 :dolphin: Hİ THERE! :dolphin:
-
-<!-- BOLD -->
-
+   
+    
     *ITS OSMAN CAN. I'M STUDYING IN ELECTRICAL AND ELECTRONICS ENGINEERİNG.*
     ** FIRST OF MY GOAL İS TO LEARN SWIFT. THEN, I WANT TO START TO DEVELOPE SOME MOBILE APPLICATIONS. **
-    ** I'M BASED ON TURKIYE. **
+    *I'M BASED ON TURKIYE*
     ** I'M INTERESTIN IN CRYPTOCURRENCIES. **
-<!-- task -->
+
 
 - [x] Task 1
     - [x] Task 1.1
