@@ -8,12 +8,12 @@
     *I'M BASED ON TURKIYE*
     ** I'M INTERESTIN IN CRYPTOCURRENCIES. **
 ```
-
+```
 - [x] Task 1
     - [x] Task 1.1
     - [x] Task 1.1
 - [ ] Task 2   
-
+```
 
 <!-- EMOJI -->
 
