@@ -1,7 +1,7 @@
 
 
 <!-- HEADING -->
-:dolphin: Hİ THERE! :dolphin:
+:dolphin: **Hİ THERE!** :dolphin:
 
 ```
     ITS OSMAN CAN. I'M STUDYING IN ELECTRICAL AND ELECTRONICS ENGINEERİNG.
@@ -18,6 +18,6 @@
 
 <!-- EMOJI -->
 
-:two_hearts: **OsmnCnG**
+:two_hearts: OsmnCnG
 
 
