@@ -1,27 +1,9 @@
-
-
-<!-- HEADING -->
 :dolphin: **Hİ THERE!** :dolphin:
 
-```
-    ITS OSMAN CAN. I'M STUDYING IN ELECTRICAL AND ELECTRONICS ENGINEERİNG.
-    I AM FAMILIAR WITH JAVA,Javascript,C/C++,HTML/CSS.
-    FIRST OF MY GOAL İS TO LEARN JAVASCRIPT,NODEJS,THREEJS. THEN, I WANT TO BE A FULL-STACK DEVELOPER.
-    I'M BASED ON TURKIYE.
-    I'M INTERESTIN IN CRYPTOCURRENCIES.
-```
-```
-- [x] Task 1
-    - [x] Task 1.1
-    - [x] Task 1.1
-- [ ] Task 2   
-```
-
-<!-- EMOJI -->
 
 :two_hearts: OsmnCnG
 # Hello there! :wave:
-
+:dolphin: #Hİ THERE! :dolphin:
 I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
 ## About Me :man_technologist:
