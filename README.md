@@ -16,7 +16,7 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome to my 
 - :earth_africa: I am based in Turkey and actively share updates on social media.
 - :email: Feel free to reach out to me via email at [E-mail](mailto:osmancangonen@hotmail.com)
 - :briefcase: You can find my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/osman-can-g%C3%B6nen-300339185/)
-
+- You can access my portfolio on the website I've prepared at the following link: https://osmncng.github.io/myWebsite/ :briefcase:
 ## Interests :bulb:
 - :moneybag: I have a keen interest in cryptocurrencies and blockchain technologies.
 - :swimmer: I enjoy swimming and playing tennis. :tennis: 
