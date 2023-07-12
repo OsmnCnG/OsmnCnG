@@ -1,5 +1,4 @@
 # Hi there! :dolphin:
-:dolphin: #Hİ THERE! :dolphin:
 I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
 ## About Me :man_technologist:
@@ -15,8 +14,8 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
 ## Contact Me :mailbox_with_mail:
 - :earth_africa: I am based in Turkey and actively share updates on social media.
-- :email: Feel free to reach out to me via email at [osmancan@example.com](mailto:osmancan@example.com).
-- :briefcase: You can find my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/osmancan/)
+- :email: Feel free to reach out to me via email at [osmancangonen@hotmail.com](mailto:osmancangonen@hotmail.com).
+- :briefcase: You can find my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/osman-can-g%C3%B6nen-300339185/)
 
 ## Interests :bulb:
 - :moneybag: I have a keen interest in cryptocurrencies and blockchain technologies.
