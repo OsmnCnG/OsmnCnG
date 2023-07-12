@@ -20,33 +20,33 @@
 <!-- EMOJI -->
 
 :two_hearts: OsmnCnG
+# Hello there! :wave:
 
-# Merhaba! :wave: 
+I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
-Ben Osman Can, Elektrik ve Elektronik Mühendisliği öğrencisiyim. Hoş geldiniz! 
+## About Me :man_technologist:
+- :mortar_board: I am pursuing a degree in Electrical and Electronics Engineering.
+- :computer: I am proficient in programming languages such as Java, JavaScript, C/C++, HTML/CSS.
+- :books: Currently, my primary goal is to learn JavaScript, Node.js, and Three.js.
+- :rocket: My ultimate aim is to become a full-stack developer.
 
-## Hakkımda :man_technologist:
-- :mortar_board: Elektrik ve Elektronik Mühendisliği öğrencisiyim.
-- :computer: Java, JavaScript, C/C++, HTML/CSS gibi programlama dillerine hakimim.
-- :books: Şu anda JavaScript, Node.js ve Three.js öğrenmek ilk hedeflerim arasında.
-- :rocket: Full-stack geliştirici olmayı hedefliyorum.
+## Projects and Contributions :hammer_and_wrench:
+- :gear: On this GitHub account, I share my projects and contributions.
+- :octocat: Actively involved in various projects to enhance my coding skills.
+- :bulb: Constantly working on new projects to bring creative ideas to life.
 
-## Projeler ve Çalışmalar :hammer_and_wrench:
-- :gear: Bu GitHub hesabımda, projelerimi ve çalışmalarımı paylaşıyorum.
-- :octocat: Kodlama becerilerimi geliştirmek için aktif olarak projelerde yer alıyorum.
-- :bulb: Yaratıcı fikirleri hayata geçirmek için sürekli olarak yeni projeler üzerinde çalışıyorum.
+## Contact Me :mailbox_with_mail:
+- :earth_africa: I am based in Turkey and actively share updates on social media.
+- :email: Feel free to reach out to me via email at [osmancan@example.com](mailto:osmancan@example.com).
+- :briefcase: You can find my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/osmancan/)
 
-## İletişim :mailbox_with_mail:
-- :earth_africa: Türkiye merkezliyim ve sosyal medyada aktif olarak paylaşımlar yapıyorum.
-- :email: Benimle iletişim kurmak isterseniz, e-posta adresim: [osmancan@example.com](mailto:osmancan@example.com).
-- :briefcase: LinkedIn profilim: [LinkedIn](https://www.linkedin.com/in/osmancan/)
+## Interests :bulb:
+- :moneybag: I have a keen interest in cryptocurrencies and blockchain technologies.
+- :art: I enjoy visual programming and graphic design.
+- :telescope: Exploring technological advancements and discovering new innovations excites me.
 
-## İlgi Alanları :bulb:
-- :moneybag: Kripto para birimleri ve blockchain teknolojileri hakkında ilgiliyim.
-- :art: Görsel programlama ve grafik tasarımıyla ilgileniyorum.
-- :telescope: Teknolojik gelişmeleri takip etmek ve yenilikleri keşfetmek beni heyecanlandırıyor.
+This GitHub README file is designed to provide more insights into my projects and contributions. If you would like to learn more or collaborate, please feel free to get in touch!
 
-Bu GitHub README dosyası, projelerim ve çalışmalarım hakkında daha fazla bilgi sağlamak için hazırlanmıştır. Daha fazla bilgi almak veya işbirliği yapmak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin!
+Welcome aboard! :rocket:
 
-Hoş geldiniz! :rocket:
 
