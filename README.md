@@ -1,5 +1,5 @@
 # Hi there! :dolphin:
-I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
+I'm Osman Can, an Electrical and Electronics Engineering student. Welcome to my Github!
 
 ## About Me :man_technologist:
 - :mortar_board: I am pursuing a degree in Electrical and Electronics Engineering.
