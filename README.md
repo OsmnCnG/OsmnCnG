@@ -1,8 +1,4 @@
-:dolphin: **Hİ THERE!** :dolphin:
-
-
-:two_hearts: OsmnCnG
-# Hello there! :wave:
+# Hi there! :dolphin:
 :dolphin: #Hİ THERE! :dolphin:
 I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
