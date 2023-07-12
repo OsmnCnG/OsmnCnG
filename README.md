@@ -19,7 +19,7 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
 ## Interests :bulb:
 - :moneybag: I have a keen interest in cryptocurrencies and blockchain technologies.
-- :art: I enjoy visual programming and graphic design.
+- :swimmer: I enjoy swimming and playing tennis. :tennis: 
 - :telescope: Exploring technological advancements and discovering new innovations excites me.
 
 This GitHub README file is designed to provide more insights into my projects and contributions.
