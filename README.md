@@ -14,7 +14,7 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 
 ## Contact Me :mailbox_with_mail:
 - :earth_africa: I am based in Turkey and actively share updates on social media.
-- :email: Feel free to reach out to me via email at [E-mail](mailto:osmancangonen@hotmail.com).
+- :email: Feel free to reach out to me via email at [E-mail](mailto:osmancangonen@hotmail.com)
 - :briefcase: You can find my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/osman-can-g%C3%B6nen-300339185/)
 
 ## Interests :bulb:
@@ -22,7 +22,7 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome!
 - :art: I enjoy visual programming and graphic design.
 - :telescope: Exploring technological advancements and discovering new innovations excites me.
 
-This GitHub README file is designed to provide more insights into my projects and contributions. If you would like to learn more or collaborate, please feel free to get in touch!
+This GitHub README file is designed to provide more insights into my projects and contributions.
 
 Welcome aboard! :rocket:
 
