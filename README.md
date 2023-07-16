@@ -22,8 +22,5 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome to my 
 - :swimmer: I enjoy swimming and playing tennis. :tennis: 
 - :telescope: Exploring technological advancements and discovering new innovations excites me.
 
-This GitHub README file is designed to provide more insights into my projects and contributions.
-
-Welcome aboard! :rocket:
 
 
