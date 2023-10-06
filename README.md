@@ -4,7 +4,7 @@ I'm Osman Can, an Electrical and Electronics Engineering student. Welcome to my 
 ## About Me :man_technologist:
 - :mortar_board: I am pursuing a degree in Electrical and Electronics Engineering.
 - :computer: I am proficient in programming languages such as Java, JavaScript, C/C++, HTML/CSS.
-- :books: Currently, my primary goal is to learn JavaScript, Node.js, and Three.js.
+- :books: Currently, my primary goal is to learn JavaScript, Node.js, and React.
 - :rocket: My ultimate aim is to become a full-stack developer.
 
 ## Projects and Contributions :hammer_and_wrench:
