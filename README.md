@@ -2,7 +2,8 @@
 
 <h1 align="left">Hi 👋, I'm Osman Can GÖNEN</h1>
 <h3 align="left">I want to be Full-Stack Developer</h3>
-
+<br>
+<br>
 
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
