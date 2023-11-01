@@ -26,6 +26,8 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmncng&show_icons=true&locale=en&layout=compact" alt="osmncng" /></p>
 <br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmncng&show_icons=true&locale=en" alt="osmncng" /></p>
 
 
