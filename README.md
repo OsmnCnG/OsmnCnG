@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **react, java**
 
 - 👨‍💻 [My Portfolio](https://osmncng.github.io/myWebsite/)
-
-
+- 📫 [Reach me](osmancangonen@hotmail.com)
 - 📫 How to reach me **osmancangonen@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
