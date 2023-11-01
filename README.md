@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, java**
 
-- 👨‍💻 My Portfolio [https://osmncng.github.io/myWebsite/](https://osmncng.github.io/myWebsite/)
+- 👨‍💻 My Portfolio [https://osmncng.github.io/myWebsite/]
 
 - 📫 How to reach me **osmancangonen@hotmail.com**
 
