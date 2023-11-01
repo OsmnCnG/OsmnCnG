@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
 
-- 🌱 I’m currently learning **react, java**
+- 🌱 I’m currently learning **React, Java**
 
 - 👨‍💻 [My Portfolio](https://osmncng.github.io/myWebsite/)
 - 📫 [Reach me](osmancangonen@hotmail.com)
