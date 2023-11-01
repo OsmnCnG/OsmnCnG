@@ -1,6 +1,8 @@
 <img align="left" alt="cat" width="200" src="https://media.giphy.com/media/62bIKcn5bR8rhfqce1/giphy.gif">
 
 
+
+
 <h1 align="center">Hi 👋, I'm Osman Can GÖNEN</h1>
 <h3 align="center">I want to be Full-Stack Developer</h3>
 
