@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Osman Can GÖNEN</h1>
 <h3 align="center">I want to be Full-Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-<!--
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif">
+<!--
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
