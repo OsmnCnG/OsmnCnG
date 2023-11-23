@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Java**
 
-- 👨‍💻 [My Portfolio]([https://osmncng.github.io/myWebsite/](https://osmancangonen.netlify.app/))
+- 👨‍💻 [My Portfolio](https://osmancangonen.netlify.app/))
 - 📫 [Reach me](osmancangonen@hotmail.com)
 
 
