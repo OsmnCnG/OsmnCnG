@@ -5,7 +5,7 @@
 <br>
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeoca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeoca" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/codeoca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeoca" target="blank" /></a></p><br><br>
 
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
