@@ -1,5 +1,6 @@
 <img align="left" alt="cat" width="200" src="https://media.giphy.com/media/62bIKcn5bR8rhfqce1/giphy.gif">
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/codeoca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeoca" /></a></p><br><br>
 <h1 align="center">Hi 👋, I'm Osman Can GÖNEN</h1>
 <h3 align="center">I want to be Full-Stack Developer</h3>
 <br>
@@ -28,8 +29,7 @@
   <img alt="coding" width="600" src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif">
 </p>
 <br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeoca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeoca" /></a></p><br><br>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmncng&show_icons=true&locale=en&layout=compact" alt="osmncng" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=osmncng&show_icons=true&locale=en" alt="osmncng" /></p>
