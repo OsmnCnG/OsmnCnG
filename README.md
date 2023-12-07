@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React, Java**
 
-- 👨‍💻 [My Portfolio](https://portfolio-l7u29prk1-osmncngs-projects.vercel.app/)
+- 👨‍💻 [My Portfolio](https://osmncng.github.io/myPortfolio-react/)
 - 📫 [Reach me](osmancangonen@hotmail.com)
 
 
