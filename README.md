@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React, .Net**
 
 - 👨‍💻 [My Portfolio](https://osmncng.github.io/myPortfolio-react/)
 - 📫 [Reach me](osmancangonen@hotmail.com)
