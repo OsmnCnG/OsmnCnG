@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, .Net**
 
-- 👨‍💻 [My Portfolio](https://osmncng.github.io/myPortfolio-react/)
+- 👨‍💻 [My Portfolio]([https://osmncng.github.io/myPortfolio-react/](https://osmancan.vercel.app/))
 - 📫 [Reach me](osmancangonen@hotmail.com)
 
 
