@@ -1,4 +1,5 @@
 <img align="left" alt="cat" width="50" height="50" src="https://media.giphy.com/media/62bIKcn5bR8rhfqce1/giphy.gif">
+<img src="https://github.com/OsmnCnG/OsmnCnG/blob/main/work.gif" width="250px" height="250px"  align="right" >
 <br>
 <br>
 ## Hi 👋, I'm Osman Can GÖNEN
