@@ -2,6 +2,7 @@
 <br>
 <br>
 ## Hi 👋, I'm Osman Can GÖNEN
+<br>
 <!--
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 -->
