@@ -8,7 +8,7 @@
 
 
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
+<img src="" width="250px" height="250px"  align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
 
