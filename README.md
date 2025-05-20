@@ -38,4 +38,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.s
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=osmncng&show_icons=true&locale=en" alt="osmncng" /></p>
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmnCnGi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=OsmnCnG&theme=blueberry&hide_border=false)
