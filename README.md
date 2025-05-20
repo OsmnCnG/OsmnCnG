@@ -1,16 +1,18 @@
-<img align="left" alt="cat" width="100" src="https://media.giphy.com/media/62bIKcn5bR8rhfqce1/giphy.gif">
+<img align="left" alt="cat" width="75" src="https://media.giphy.com/media/62bIKcn5bR8rhfqce1/giphy.gif">
 <br>
 <br>
 ## Hi 👋, I'm Osman Can GÖNEN
 <!--
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 -->
-<img src="https://github.com/OsmnCnG/OsmnCnG/blob/main/work.gif" width="250px" height="250px"  align="right" >
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
- - 🌱 I’m currently learning **React, .Net**
- - 👨‍💻 [My Portfolio](https://osmancan.vercel.app/)
- - 📫 [Reach me](osmancangonen@hotmail.com)
+- 🌱 I’m currently learning **React, .NET**
+- 👨‍💻 [My Portfolio](https://osmancan.vercel.app/)
+- 📫 [Reach me via email](mailto:osmancangonen@hotmail.com)
+
 
 ## 🌐 Social:
 
