@@ -33,10 +33,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.s
   <img alt="coding" width="600" src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif">
 </p>
 <br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmnCnG&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=OsmnCnG&theme=blueberry&hide_border=false)
 <!--
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmncng&show_icons=true&locale=en&layout=compact" alt="osmncng" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=osmncng&show_icons=true&locale=en" alt="osmncng" /></p>
 -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmnCnG&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=OsmnCnG&theme=blueberry&hide_border=false)
+
