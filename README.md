@@ -8,9 +8,9 @@
 <img src="https://github.com/OsmnCnG/OsmnCnG/blob/main/work.gif" width="250px" height="250px"  align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmncng&label=Profile%20views&color=0e75b6&style=flat" alt="osmncng" /> </p>
-- 🌱 I’m currently learning **React, .Net**
-- 👨‍💻 [My Portfolio](https://osmancan.vercel.app/)
-- 📫 [Reach me](osmancangonen@hotmail.com)
+ - 🌱 I’m currently learning **React, .Net**
+ - 👨‍💻 [My Portfolio](https://osmancan.vercel.app/)
+ - 📫 [Reach me](osmancangonen@hotmail.com)
 
 ## 🌐 Social:
 
